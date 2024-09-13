@@ -1,0 +1,15 @@
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\bin\Debug\net8.0\TechBackendApp.exe
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\bin\Debug\net8.0\TechBackendApp.deps.json
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\bin\Debug\net8.0\TechBackendApp.runtimeconfig.json
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\bin\Debug\net8.0\TechBackendApp.dll
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\bin\Debug\net8.0\TechBackendApp.pdb
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\TechBackendApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\TechBackendApp.AssemblyInfoInputs.cache
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\TechBackendApp.AssemblyInfo.cs
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\TechBackendApp.csproj.CoreCompileInputs.cache
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\TechBackendApp.sourcelink.json
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\TechBackendApp.dll
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\refint\TechBackendApp.dll
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\TechBackendApp.pdb
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\TechBackendApp.genruntimeconfig.cache
+C:\Users\maria.barbosa\Desktop\tech advisor\Tech-backend\TechBackendApp\obj\Debug\net8.0\ref\TechBackendApp.dll
